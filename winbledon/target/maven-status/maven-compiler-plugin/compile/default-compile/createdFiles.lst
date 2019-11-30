@@ -1,0 +1,16 @@
+entity\Rol.class
+entity\Participante.class
+entity\TiEntereno.class
+entity\PaisCede.class
+entity\Partido.class
+Conexion\Conexion.class
+entity\Entrenador.class
+entity\Torneo.class
+entity\Arbitro.class
+entity\Usuario.class
+entity\Paises.class
+dao\TorneoDao.class
+controller\TorneoServlet.class
+entity\Modalidad.class
+entity\Participa.class
+entity\Premios.class
